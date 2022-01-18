@@ -111,7 +111,7 @@ function soma(numero1, numero2) {
 }
 
 let resultadoFuncaoSoma = soma(5, 10) // ARGUMENTOS
-console.log(resultadoFuncaoSoma)
+// console.log(resultadoFuncaoSoma)
 
 // ESTRUTURA DE REPETIÇÃO
 
@@ -146,4 +146,4 @@ const arrayPessoas = []
 arrayPessoas.push(Hudson)
 arrayPessoas.push(maria)
 
-console.log(arrayPessoas[0].email)
+// console.log(arrayPessoas[0].email)
